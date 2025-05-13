@@ -8,5 +8,3 @@ This project implements a deep learning model for image denoising using a U-Net 
 - **HYBRID Loss (SSIM + MAE)**
 
 The model follows an encoder-decoder architecture (similar to U-Net) designed for image-to-image translation tasks. It takes a noisy input image and outputs a denoised version.
- ****
-- 
